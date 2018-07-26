@@ -1,3 +1,4 @@
-colors = 
-def #display_rainbow (color)
+colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+def #display_rainbow (colors)
+
 
